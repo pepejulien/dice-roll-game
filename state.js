@@ -4,7 +4,8 @@ const state = {
     },
     Samsung: {
         count: 0
-    }
+    },
+    currentPlayer: 'iPhone'
 }
 
 module.exports = state
